@@ -10,6 +10,5 @@ int main()
     while(t--)
     {
         int n=10;
-        n=1;
     }
 }
