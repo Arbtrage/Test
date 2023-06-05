@@ -9,6 +9,6 @@ int main()
     
     while(t--)
     {
-        int n=10;
+     //write code here   
     }
 }
