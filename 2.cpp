@@ -9,6 +9,7 @@ int main()
     
     while(t--)
     {
-        int c=0; 
+        int c=0;
+        c=9; 
     }
 }
