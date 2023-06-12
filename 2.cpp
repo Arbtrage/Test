@@ -10,6 +10,7 @@ int main()
     while(t--)
     {
         int c=0;
-        c=9; 
+        c=9;
+        cout<<"Now Added new line biacth"; 
     }
 }
