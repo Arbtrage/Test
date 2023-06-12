@@ -11,6 +11,6 @@ int main()
     {
         int c=0;
         c=9;
-        std::cout<<"Now Added new line biacth"; 
+        std::cout<<"Now Added new line biacth"<<endl; 
     }
 }
