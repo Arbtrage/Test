@@ -9,6 +9,6 @@ int main()
     
     while(t--)
     {
-     //write code here   
+        int c=0; 
     }
 }
